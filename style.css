@@ -376,6 +376,7 @@ header .logo img{
 }
 .about ul{
     display:flex;
+    margin: auto;
 }
 .about .content-about img{
     height:150px;
